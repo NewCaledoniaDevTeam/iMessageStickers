@@ -1,1 +1,9 @@
 *.swift linguist-detectable=true
+*.json linguist-detectable=true
+*.xcodeproj linguist-detectable=true
+*.plist linguist-detectable=true
+*.stickerpack linguist-detectable=true
+
+*.md linguist-detectable=true
+*.md linguist-language=Markdown
+*.md linguist-documentation=false
